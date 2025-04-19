@@ -11,10 +11,10 @@ Passionate about building robust, scalable applications with modern tech stacks.
 
 🚀 Skills
 <table> <tr> <td valign="top" width="50%"> <h3>Backend</h3> <ul> <li>ASP.NET Core Web API</li> <li>Entity Framework Core</li> <li>SQL Server / PostgreSQL</li> <li>Azure Services</li> <li>RESTful API Design</li> <li>Microservices Architecture</li> <li>Dependency Injection</li> </ul> </td> <td valign="top" width="50%"> <h3>Frontend</h3> <ul> <li>Angular</li> <li>TypeScript</li> <li>HTML5 / CSS3</li> <li>RxJS</li> <li>Angular Material</li> <li>Bootstrap</li> <li>Responsive Design</li> </ul> </td> </tr> <tr> <td valign="top" width="50%"> <h3>DevOps & Tools</h3> <ul> <li>Docker / Containers</li> <li>GitHub Actions / Azure DevOps</li> <li>CI/CD Pipelines</li> <li>Testing (xUnit, NUnit, Jasmine)</li> <li>Azure Cloud Services</li> </ul> </td> <td valign="top" width="50%"> <h3>Best Practices</h3> <ul> <li>Clean Architecture</li> <li>SOLID Principles</li> <li>Design Patterns</li> <li>Test-Driven Development</li> <li>Agile Methodology</li> </ul> </td> </tr> </table>
-📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lawangGurung&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" alt="Most Used Languages" height="170"/> </div>
+<!-- 📈 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lawangGurung&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" alt="Most Used Languages" height="170"/> </div> -->
 🏆 Featured Projects
-<div align="center"> <a href="https://github.com/yourusername/awesome-dotnet-project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lawangGurung&repo=awesome-dotnet-project&theme=react" alt="Awesome .NET Project"/> </a> <a href="https://github.com/lawangGurung/angular-dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lawangGurung&repo=angular-dashboard&theme=react" alt="Angular Dashboard"/> </a> </div>
+<div align="center"> <a href="https://github.com/lawangGurung/BookStore"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lawangGurung&BookStore&theme=react" alt="Awesome .NET Project"/> </a> <a href="https://github.com/lawangGurung/angular-dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lawangGurung&repo=angular-dashboard&theme=react" alt="Angular Dashboard"/> </a> </div>
 🌱 Currently Learning
 Blazor WebAssembly
 Machine Learning with ML.NET
